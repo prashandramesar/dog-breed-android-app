@@ -1,0 +1,92 @@
+# Gradle files
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Local configuration file
+local.properties
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/jarRepositories.xml
+.idea/deploymentTargetDropDown.xml
+.idea/compiler.xml
+.idea/kotlinc.xml
+
+# Android Studio captures folder
+captures/
+
+# Generated files
+bin/
+gen/
+out/
+
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. Firebase)
+google-services.json
+
+# External native build folder generated in Android Studio
+.externalNativeBuild
+.cxx/
+
+# Version control
+.DS_Store
+.svn/
+
+# Log/OS files
+*.log
+.DS_Store
+
+# Android Profiling
+*.hprof
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Python/Flask server files (if your repo includes the server code too)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+*.so
+.Python
