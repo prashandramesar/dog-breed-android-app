@@ -53,7 +53,7 @@ An Android application that uses machine learning to identify dog breeds from ph
 
 ## API Backend
 
-The app communicates with a Flask backend hosted at https://dog-breed-model.onrender.com/predict/
+The app communicates with a Flask backend hosted at https://prashand.nl/predict
 
 The backend uses a deep learning model trained to recognize over 100 different dog breeds.
 

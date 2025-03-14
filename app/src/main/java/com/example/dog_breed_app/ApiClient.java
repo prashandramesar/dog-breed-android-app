@@ -6,7 +6,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
-    private static final String BASE_URL = "https://dog-breed-model.onrender.com/"; // This points to localhost on your host machine when using the emulator
+    private static final String BASE_URL = "https://prashand.nl/"; // This points to localhost on your host machine when using the emulator
     private static Retrofit retrofit = null;
 
     public static Retrofit getClient() {

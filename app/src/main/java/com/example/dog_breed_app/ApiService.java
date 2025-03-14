@@ -8,6 +8,6 @@ import retrofit2.http.Part;
 
 public interface ApiService {
     @Multipart
-    @POST("predict/")
+    @POST("predict")
     Call<PredictionResponse> predictDogBreed(@Part MultipartBody.Part image);
 }
