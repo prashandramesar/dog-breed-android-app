@@ -90,3 +90,6 @@ env/
 .env
 *.so
 .Python
+
+# Unignore
+!dog-breed-app.apk
