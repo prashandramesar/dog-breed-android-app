@@ -1,6 +1,7 @@
 # Dog Breed Classifier App
 
 An Android application that uses machine learning to identify dog breeds from photos.
+Try the app! See dog-breed-app.apk in the root folder.
 
 ## Features
 
